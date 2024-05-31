@@ -1,0 +1,18 @@
+body {
+    background-color: chocolate;
+}
+img {
+    display:block;
+    box-sizing: border-box;
+    height: 700px;
+    width: auto;
+    margin: 0 auto; 
+    border: 8px solid ;
+    border-color: pink;
+}
+
+#title-image {
+    margin-bottom: 30px;
+    text-align: center;
+
+}
