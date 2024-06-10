@@ -1,6 +1,7 @@
 body {
     background-color: chocolate;
 }
+
 img {
     display:block;
     box-sizing: border-box;
@@ -14,5 +15,6 @@ img {
 #title-image {
     margin-bottom: 30px;
     text-align: center;
+
 
 }

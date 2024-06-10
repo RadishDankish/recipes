@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+}
+
+img {
+    display: block;
+    height: 500px;
+    width: auto;
+    margin: 0 auto;
+    border:black solid 8px;
+    border-radius: 10px;
+    
+}
+
+#one {
+    text-align: center;
+}
